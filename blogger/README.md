@@ -63,5 +63,6 @@ Then to start Server:
 - Role specific access i,e (admin,normal user)
 
 ## Screenshots
-![App Screenshot](/public/blogger-1.jpg)
-![App Screenshot](/public/blogger-2.jpg)
+![blogger-1](https://user-images.githubusercontent.com/80903066/229962347-53ed666d-62a4-4e1a-952a-d9514c4e7e8a.jpg)
+
+![blogger-2](https://user-images.githubusercontent.com/80903066/229962434-4db6e3a7-fba1-40c2-97a6-8ab10ec539e6.jpg)
